@@ -19,7 +19,7 @@
         android:background="@android:color/transparent"
         android:fontFamily="@font/windlass"
         android:onClick="launchHomeActivity"
-        android:text="Start"
+        android:text="Hello Nomula"
         android:textAlignment="center"
         android:textColor="@color/Brown"
         android:textSize="36sp"
